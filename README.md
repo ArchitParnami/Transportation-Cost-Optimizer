@@ -8,4 +8,4 @@
  http://www.codeblocks.org/downloads/26
 
  Doesnt work with MSVC++ Compiler. You can read about it here.
- https://github.com/ArchitParnami/Transportation-Cost-Optimizer/issues/1#issuecomment-300592003
+ https://github.com/ArchitParnami/Transportation-Cost-Optimizer/issues/1

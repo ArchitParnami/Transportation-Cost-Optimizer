@@ -1,6 +1,5 @@
 # Transportation-Cost-Optimizer
  C++ Application for solving Linear Programming problem of finding optimal solution for transportation problem. 
- http://orms.pef.czu.cz/text/transProblem.html
  
  This project is windows based console application so please run it on windows.
  
